@@ -1,8 +1,8 @@
-- 👋 Hi, my name is Gabriel Torres!
-- 👀 I’m interested in physical and mental wellbeing, coding, and communication!
-- 🌱 I’m currently learning coding, communication, personal finance, and physical/mental optimization
-- 💞️ I’m looking to collaborate on coding projects!
-- 📫 Contact me @Gabrielandretorresrecinos@outlook.com
+- 👋 Hello there! My name is Gabriel Torres, and I am a 5th-year student studying Sustainable Building Engineering @ Humber Polytechnic!
+- 👀 My professional interests span from energy management, renewable energy, all the way to front-end web development, app development, and AI/ML. 
+- 🌱 My personal interests span around coding, communication, personal finance, and physical/mental wellbeing
+- 💞️ I’m looking forward to being of service!
+- 📫 Feel free to connect with me at Gabrielandretorresrecinos@outlook.com!
 
 <!---
 Gabriel-TorresRecinos/Gabriel-TorresRecinos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
