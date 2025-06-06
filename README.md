@@ -6,6 +6,7 @@
 
 ## Featured Projects
 - [https://pokedex-app-chi-rose.vercel.app/] - A fun app utilizing Next.JS to explore Pokemons!
+- [https://github.com/Gabriel-TorresRecinos/Mortgage-Calculator/blob/main/main.py] - Link to repository containing logic of my mortgage calulator app
 - [https://gabriel-torresrecinos.github.io/Personal-Website/] - A growing personal website, with more to come!
 
 <!---
