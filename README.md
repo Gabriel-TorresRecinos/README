@@ -4,6 +4,10 @@
 - 💞️ I’m looking forward to being of service!
 - 📫 Feel free to connect with me at Gabrielandretorresrecinos@outlook.com!
 
+## Featured Projects
+- [https://pokedex-app-chi-rose.vercel.app/] - A fun app utilizing Next.JS to explore Pokemons!
+- [https://gabriel-torresrecinos.github.io/Personal-Website/] - A growing personal website, with more to come!
+
 <!---
 Gabriel-TorresRecinos/Gabriel-TorresRecinos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
